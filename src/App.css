@@ -1,0 +1,28 @@
+.featureStuff {
+  display: flex;
+  margin: 15px;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+arcgis-map {
+  height: 100%;
+  width: 100%;
+}
+
+.mapStuff {
+  height: 450px;
+  width: 450px;
+  margin: 10px;
+}
+
+.typeTitle {
+  text-align: center;
+}
+
+.smallerText {
+  font-size: 13px;
+  font-style: italic;
+  margin-left: 10px;
+}
+
